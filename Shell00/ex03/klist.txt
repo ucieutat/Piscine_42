@@ -1,0 +1,5 @@
+Credentials cache: API:E0FE948A-9536-44F4-92C1-8CE84F0C4B91
+        Principal: ucieutat@42.FR
+
+  Issued                Expires             Flags    Principal
+Sep  6 13:11:30 2021  Sep 13 13:11:05 2021  FPIA   krbtgt/42.FR@42.FR
